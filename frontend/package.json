@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.7.4",
+    "@next-auth/supabase-adapter": "^0.2.1",
     "@next/font": "13.1.3",
+    "@reduxjs/toolkit": "^1.9.1",
+    "@supabase/supabase-js": "^2.4.1",
+    "axios": "^1.2.3",
+    "graphql": "^16.6.0",
+    "jsonwebtoken": "^9.0.0",
     "next": "13.1.3",
+    "next-auth": "^4.18.8",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "stepzen": "^0.26.0"
   }
 }
